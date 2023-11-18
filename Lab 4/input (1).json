@@ -1,0 +1,45 @@
+{
+  "bookid": {
+    "S": "27"
+  },
+  "date": {
+    "S": "20221117"
+  },
+  "author": {
+    "SS": [
+      "Jin Fang",
+      "Marina privalova",
+      "Mo Xiang Tong Xiu"
+    ]
+  },
+  "dimensions": {
+    "NS": [
+      "8",
+      "1",
+      "5"
+    ]
+  },
+  "ISBN": {
+    "L": [
+      {
+        "N": "9781685798390"
+      }
+    ]
+  },
+  "pages": {
+    "N": "444"
+  },
+  "rank": {
+    "M": {
+      "Fiction": {
+        "N": "2"
+      }
+    }
+  },
+  "title": {
+    "S": "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi (Novel) Vol. 5 (B&N Exclusive Edition)"
+  },
+  "used": {
+    "BOOL": true
+  }
+}
