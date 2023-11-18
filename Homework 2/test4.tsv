@@ -1,0 +1,17 @@
+	Path	ModificationTime	BlocksCount	FileSize	Permission
+0	/	09/18/2022 01:59	0	0	drwxr-xr-x
+1	/user	09/18/2022 02:01	0	0	drwxr-xr-x
+2	/user/input3	09/18/2022 02:06	0	0	drwxr-xr-x
+3	/user/input3/text.txt	09/18/2022 02:06	1	12	-rw-r--r--
+4	/user/input2	09/18/2022 02:05	0	0	drwxr-xr-x
+5	/user/input2/yarn-site.xml	09/18/2022 02:05	1	690	-rw-r--r--
+6	/user/input2/mapred-site.xml	09/18/2022 02:05	1	758	-rw-r--r--
+7	/user/input2/kms-site.xml	09/18/2022 02:05	1	682	-rw-r--r--
+8	/user/input2/kms-acls.xml	09/18/2022 02:05	1	3518	-rw-r--r--
+9	/user/input2/httpfs-site.xml	09/18/2022 02:05	1	620	-rw-r--r--
+10	/user/input2/hdfs-site.xml	09/18/2022 02:05	1	859	-rw-r--r--
+11	/user/input2/hdfs-rbf-site.xml	09/18/2022 02:05	1	683	-rw-r--r--
+12	/user/input2/hadoop-policy.xml	09/18/2022 02:05	1	11765	-rw-r--r--
+13	/user/input2/core-site.xml	09/18/2022 02:05	1	860	-rw-r--r--
+14	/user/input2/capacity-scheduler.xml	09/18/2022 02:05	1	9213	-rw-r--r--
+15	/user/input1	09/18/2022 02:01	0	0	drwxr-xr-x

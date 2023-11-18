@@ -1,0 +1,10 @@
+	Path	ModificationTime	BlocksCount	FileSize	Permission
+0	/	09/17/2022 23:18	0	0	drwxr-xr-x
+1	/user	09/17/2022 23:19	0	0	drwxr-xr-x
+2	/user/test_user	09/17/2022 23:18	0	0	drwxr-xr-x
+3	/user/test_user/neha	09/17/2022 23:18	0	0	drwxr-xr-x
+4	/user/test_user/hw	09/17/2022 23:18	0	0	drwxr-xr-x
+5	/user/test_user/hw/test.txt	09/17/2022 23:18	0	0	drwxr-xr-x
+6	/user/test	09/17/2022 23:19	0	0	drwxr-xr-x
+7	/user/test/data	09/17/2022 23:19	0	0	drwxr-xr-x
+8	/user/test/data/load.py	09/17/2022 23:19	0	0	drwxr-xr-x
